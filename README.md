@@ -4,6 +4,12 @@ An AI-powered learning roadmap generator that creates personalized learning path
 
 ![Mini Mentor](https://img.shields.io/badge/AI-Claude-blue) ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-green) ![FastAPI](https://img.shields.io/badge/FastAPI-0.109-teal) ![Docker](https://img.shields.io/badge/Docker-Compose-blue)
 
+## Video Introduction
+
+[![Watch the video](https://img.youtube.com/vi/Z_iE4WKQGu8/maxresdefault.jpg)](https://www.youtube.com/watch?v=Z_iE4WKQGu8)
+
+🎬 **[Watch the project introduction on YouTube](https://www.youtube.com/watch?v=Z_iE4WKQGu8)**
+
 ## Features
 
 - **AI-Powered Roadmaps**: Generate comprehensive learning paths using Claude AI
